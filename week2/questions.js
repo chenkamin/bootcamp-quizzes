@@ -272,7 +272,7 @@ const questions = {
 
             x = all[1].x
             $("#corq").siblings(".nalo").append("<div>" + x + " - Ryk</div>")
-        `,
+        `,x`
         answers: {
             a: "Throws an error",
             b: "Nothing",
