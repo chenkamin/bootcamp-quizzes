@@ -147,7 +147,7 @@ const questions = {
             a: `Where, ultimately, the browser positions our elements and how`, 
             b: `Where, initially, the browser positions our elements (before our styling is applied)`,
             c: `Where, ultimately, the browser positions parent elements, but not necessarily their children`,
-            d: `Where, ultimately, the browser positions children elements, but not necessarily their parents`
+            d: `Where, ultimately, the browser positions children elxements, but not necessarily their parents`
         }
     },
     // ------ FUNCTIONS -----
